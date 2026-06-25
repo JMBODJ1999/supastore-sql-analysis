@@ -43,3 +43,21 @@ GROUP BY "Region",
           "City"
 ORDER BY SUM("Profit") ASC
 LIMIT 5;
+
+-- Most Profitable Customers
+SELECT "Customer Name",
+        SUM("Profit") AS "Total_Profit"
+FROM "Supastore"
+GROUP BY "Customer Name"
+ORDER BY SUM("Profit") DESC
+LIMIT 5;
+
+-- Segmentation
+SELECT "Customer Name",
+        SUM("Profit") AS "Total_Profit",
+        CASE WHEN SUM("Profit") > 2000 THEN 'VIP'
+            WHEN SUM  ("Profit") > 1000 THEN 'Premium'
+            ELSE 'Standard'
+        END AS "Category_Customers"
+FROM "Supastore"
+GROUP BY "Customer Name";
