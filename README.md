@@ -79,6 +79,9 @@ Customer segments were analyzed based on total profit contribution.
 ### 🔹 Product Performance
 ![Products](Profitability_Dashboard.png)
 
+### 🔹 Segmentation
+![Segmentation](Segmentation.png)
+
 
 ---
 
