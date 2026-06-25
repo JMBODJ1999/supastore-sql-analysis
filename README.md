@@ -71,16 +71,14 @@ Customer segments were analyzed based on total profit contribution.
 ## 📈 Visualizations
 
 ### 🔹 Overview Dashboard
-![Overview](./dashboard/overview.png)
+![Evolution](Evolution_Profitability.png)
 
 ### 🔹 Regional Analysis
-![Regions](./dashboard/regions.png)
+![Regions](Top_And_Flop_Products.png)
 
 ### 🔹 Product Performance
-![Products](./dashboard/products.png)
+![Products](Profitability_Dashboard.png)
 
-### 🔹 Sales Evolution
-![Trends](./dashboard/evolution.png)
 
 ---
 
