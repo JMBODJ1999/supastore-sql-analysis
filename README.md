@@ -1,6 +1,6 @@
-# 📊 Superstore Sales & Profit Analysis (SQL + Tableau)
+#  Superstore Sales & Profit Analysis (SQL + Tableau)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes the performance of a retail company using the Superstore dataset.  
 The goal is to understand sales trends, profitability, customer segments, and regional performance.
@@ -9,7 +9,7 @@ The analysis is performed using **SQL for data extraction and transformation**, 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this project are:
 
@@ -20,7 +20,7 @@ The main objectives of this project are:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - SQL (PostgreSQL)
 - Tableau (Data Visualization)
@@ -28,7 +28,7 @@ The main objectives of this project are:
 
 ---
 
-## 📊 Key Analyses
+##  Key Analyses
 
 ### 1. Sales & Profit Evolution Over Time
 A time series analysis was performed to observe trends in sales and profit over months and years.
@@ -89,13 +89,13 @@ Customer segments were analyzed based on total profit contribution.
 
 - The West region is the most profitable overall
 - Certain states underperform significantly compared to others
-- A small group of products drives most of the profit
-- The Consumer segment is the most profitable customer group
+- A small number of products generate a large share of total profit, with the Canon imageCLASS 2200 significantly outperforming all other products.
+- The company's largest losses are concentrated in a small number of products, particularly the Cubify CubeX 3D Printer line, suggesting opportunities for product portfolio optimization.
 - Profit trends show fluctuations over time with seasonal patterns
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - Writing SQL queries (aggregation, filtering, grouping)
 - Time series analysis
@@ -105,7 +105,7 @@ Customer segments were analyzed based on total profit contribution.
 
 ---
 
-## 🚀 How to Use This Project
+##  How to Use This Project
 
 1. Clone the repository
 2. Explore SQL queries in the `/sql` folder
@@ -114,12 +114,12 @@ Customer segments were analyzed based on total profit contribution.
 
 ---
 
-## 📌 Dataset
+##  Dataset
 
 Superstore dataset (retail sales data including orders, profit, sales, customers, and regions)
 
 ---
 
-## 📎 Author
+##  Author
 
 Data analysis project built for portfolio and job applications in data analytics.
