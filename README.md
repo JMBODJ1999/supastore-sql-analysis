@@ -60,9 +60,9 @@ Products were ranked based on profitability:
 ### 4. Customer Segment Analysis
 Customer segments were analyzed based on total profit contribution.
 
-- Consumer
-- Corporate
-- Home Office
+- VIP
+- Premium
+- Standard
 
 👉 Insight: One segment dominates overall profitability.
 
@@ -85,7 +85,7 @@ Customer segments were analyzed based on total profit contribution.
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 - The West region is the most profitable overall
 - Certain states underperform significantly compared to others
@@ -97,11 +97,11 @@ Customer segments were analyzed based on total profit contribution.
 
 ##  Skills Demonstrated
 
-- Writing SQL queries (aggregation, filtering, grouping)
-- Time series analysis
-- Business intelligence thinking
+- SQL Aggregations (SUM,AVG,COUNT)
+- GROUP BY
+- CASE WHEN
 - Data visualization with Tableau
-- Translating raw data into business insights
+- Tableau Dashboard Design
 
 ---
 
