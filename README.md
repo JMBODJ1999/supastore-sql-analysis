@@ -93,6 +93,17 @@ Insight: One segment dominates overall profitability.
 - The company's largest losses are concentrated in a small number of products, particularly the Cubify CubeX 3D Printer line, suggesting opportunities for product portfolio optimization.
 - Profit trends show fluctuations over time with seasonal patterns
 
+
+---
+
+##  Recommendations
+
+- The West region consistently outperforms the Central and East regions in terms of sales and profitability : Allocate additional marketing budget and inventory to sustain growth while investigating how the West's strategies can be replicated in other regions.
+- Promote high-performing products such as the Canon ImageClass 2200, which generates significant profit.
+- Since the majority of customers belong to the Standard segment, implement loyalty programs and personalized offers to encourage customers to move into the Premium and VIP segments.
+- Analyze periods of strong growth and sharp declines to identify their root causes and improve future planning.
+- Align inventory management and marketing campaigns with expected peak and low-demand periods to maximize revenue and reduce stock shortages.
+
 ---
 
 ##  Skills Demonstrated
@@ -124,4 +135,4 @@ Superstore dataset (retail sales data including orders, profit, sales, customers
 
 ##  Author
 
-Data analysis project built for portfolio and job applications in data analytics.
+Jean Sidy MBODJ
